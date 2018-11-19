@@ -25,7 +25,7 @@ class User(models.Model):
     def __str__(self):
         return '{}'.format(self.company_name)
 
-# Profile Role Choice
+# Profile Role Choices
 SHOP = "Shopper"
 BUY = "Buyer"
 COMPANY_ADMIN = "Company_Admin"
