@@ -35,8 +35,7 @@ def num_similarity(input_laptop,laptops,test_indices,num_cols):
 
 def get_recommendations(test_indices):
         
-    laptops = pd.read_csv('/home/ubuntu/Box/Delta/Miscellaneous/laptops_with_photo_url.csv')
-    photos = laptops['photo_url']
+    laptops = pd.read_csv('/home/ubuntu/Box/Delta/Miscelleneous/Datasets/laptops_with_photo_url.csv')
     
     laptops.drop(['Unnamed: 0','photo_url'],axis=1,inplace=True)
     
@@ -61,25 +60,32 @@ def get_recommendations(test_indices):
         
         total_scores = cat_scores + 0.01*num_scores
         total_indices = list((-total_scores).argsort()[:10])
+#        print(total_indices)
         
         indices_list.append(total_indices)
+
+#    print('Indices List: ', indices_list)
         
     for i in range(len(indices_list)):
         indices_list[i] = indices_list[i][:10]
+    
+#    print('Indices List: ', indices_list)
 
     final_rec = []
     for i in range(len(indices_list)):
         final_rec+=indices_list[i]
-
+    
+    imp = [0,1,10,11,20,21,30,31,40,41]
+    final_rec = [final_rec[x] for x in imp]
+    
+#    print('Final_Rec: ', final_rec)
+    
     indi_dicts = []
-    for i in range(len(indices_list)):
-        indi_dicts.append({'Company':laptops['Company'][i],
-                               'Product':laptops['Product'][i],
-                               'Price_euros':laptops['Price_euros'][i],
-                               'Cpu':laptops['Cpu'][i],
-                                'Memory':laptops['Memory'][i],
-                                'photo_url':photos[i]})
+    for i in range(len(final_rec)):
+        indi_dicts.append({'Company':laptops['Company'][final_rec[i]],
+                               'Product':laptops['Product'][final_rec[i]],
+                               'Price_euros':laptops['Price_euros'][final_rec[i]]})
         
     final_dict = {'count':len(indi_dicts), 'results':indi_dicts}
-
+    
     return final_dict
