@@ -1,0 +1,101 @@
+company_id,company_name,location,company_type,primary_color,secondary_colour
+0,Stalin Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+1,McDonald Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+2,Indus Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+3,Swanson Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+4,Minnesota Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+5,Montreal Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+6,Michelangelo Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+7,Brock Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+8,Poe Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+9,Hershey Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+10,Percy Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+11,Juneau Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+12,Charleston Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+13,Augusta Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+14,Colosseum Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+15,Bhutan Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+16,Slavonic Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+17,Beaumont Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+18,Spokane Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+19,Nantucket Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+20,Normandy Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+21,Hodgkin Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+22,Connors Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+23,Glidden Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+24,Breton Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+25,Essex Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+26,Tientsin Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+27,Strom Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+28,Shantung Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+29,Pearson Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+30,Salesian Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+31,Hera Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+32,Veda Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+33,Minneapolis Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+34,Chinatown Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+35,Quichua Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+36,Princeton Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+37,Greta Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+38,Shearer Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+39,Asuncion Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+40,Ave Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+41,Malabar Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+42,Leslie Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+43,Chadwick Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+44,Arnold Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+45,Sahara Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+46,Hopkins Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+47,Floridian Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+48,Brandon Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+49,Kenyon Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+50,Raman Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+51,Ft Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+52,Berra Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+53,Jupiter Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+54,Cartesian Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+55,Palmyra Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+56,Lise Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+57,Mercator Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+58,Huston Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+59,Lange Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+60,Veneto Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+61,Jove Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+62,Harvard Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+63,Sarasota Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+64,Dave Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+65,Muzak Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+66,Arcturus Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+67,Corbett Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+68,Krakatoa Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+69,Siamese Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+70,Eire Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+71,Wagner Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+72,Polyhymnia Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+73,Hartley Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+74,Istanbul Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+75,Stratton Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+76,Swenson Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+77,Stearns Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+78,Hague Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+79,Stanley Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+80,Hawaii Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+81,Gregory Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+82,Caribbean Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+83,Maurice Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+84,Dugan Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+85,Kathleen Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+86,Hirsch Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+87,Churchill Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+88,Bagley Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+89,Brest Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+90,Elgin Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+91,Georgetown Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+92,Sutton Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+93,Phyllis Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+94,Agway Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+95,Loomis Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+96,Indies Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+97,Metzler Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+98,Pocono Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+99,Camino Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB

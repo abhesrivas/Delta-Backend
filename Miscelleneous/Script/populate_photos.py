@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-data = pd.read_csv('laptops.csv', encoding='latin-1',index_col=0)
+data = pd.read_csv('Datasets/laptops_with_photo_url.csv', encoding='latin-1',index_col=0)
 
 photo_urls = ["https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05975535.png",
           "https://currys-ssl.cdn.dixons.com/css/themes/ucms/category/laptop/img/2018/Lenovo-3.png",
@@ -19,4 +19,4 @@ photo_urls = ["https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres
 
 data['photo_url'] = np.random.choice(list(photo_urls), len(data))
 
-data.to_csv("laptops_with_Photo_URL.csv")
+data.to_csv("Datasets/laptops_with_photo_url.csv")

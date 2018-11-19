@@ -1,0 +1,101 @@
+company_id,company_name,location,company_type,primary_color,secondary_colour
+300,Calder Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+301,Kabul Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+302,Liverpudlian Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+303,Sylvania Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+304,IR Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+305,Winnetka Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+306,Whitney Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+307,Sam Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+308,Susanne Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+309,Gil Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+310,Dionysus Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+311,Prague Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+312,Iran Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+313,Wyandotte Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+314,Weller Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+315,Holmes Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+316,Barry Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+317,Ainu Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+318,Woodbury Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+319,Versailles Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+320,Cincinnati Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+321,Geigy Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+322,Nostrand Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+323,Israelite Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+324,Judy Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+325,Harvey Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+326,Gavin Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+327,AAAS Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+328,Albright Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+329,Bradford Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+330,Ceylon Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+331,Raphael Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+332,Gretchen Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+333,Lola Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+334,Malay Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+335,Colgate Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+336,Ella Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+337,Fulbright Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+338,Amadeus Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+339,Ernie Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+340,Lombard Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+341,Mayfair Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+342,Coors Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+343,Victoria Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+344,Pfizer Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+345,McConnel Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+346,Billie Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+347,Potts Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+348,Walpole Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+349,Moulton Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+350,Bingham Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+351,Hummel Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+352,McKeon Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+353,Moldavia Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+354,Montmartre Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+355,Baxter Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+356,Horton Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+357,Sharon Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+358,Platte Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+359,Tasmania Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+360,Seidel Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+361,Hansen Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+362,WA Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+363,Nantucket Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+364,NASA Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+365,Bateman Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+366,NCR Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+367,Banbury Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+368,AZ Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+369,Cohen Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+370,Dana Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+371,Haas Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+372,MD Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+373,Conway Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+374,Harbin Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+375,Murphy Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+376,Isabel Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+377,Bridgetown Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+378,Logan Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+379,Stirling Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+380,Wendell Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+381,Idaho Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+382,Kim Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+383,Schlitz Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+384,Shreveport Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+385,Bailey Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+386,Amos Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+387,Inverness Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+388,Wallace Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+389,Larry Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+390,Alberich Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+391,Ross Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+392,Deere Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+393,Canterbury Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+394,Tigris Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+395,Thruway Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+396,Khmer Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+397,Bologna Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+398,Technion Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+399,Siegfried Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4

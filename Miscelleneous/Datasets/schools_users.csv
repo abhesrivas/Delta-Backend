@@ -1,0 +1,101 @@
+company_id,company_name,location,company_type,primary_color,secondary_colour
+200,Riga School,PA|Panama,Education,#FFFFE0,#FFFACD
+201,Jackie School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+202,Barton School,PL|Poland,Education,#FFFFE0,#FFFACD
+203,Ralph School,PA|Panama,Education,#FFFFE0,#FFFACD
+204,Elliot School,PA|Panama,Education,#FFFFE0,#FFFACD
+205,Howell School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+206,Ryder School,PA|Panama,Education,#FFFFE0,#FFFACD
+207,Amerada School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+208,Edinburgh School,PL|Poland,Education,#FFFFE0,#FFFACD
+209,Carbondale School,SG|Singapore,Education,#FFFFE0,#FFFACD
+210,Simla School,PL|Poland,Education,#FFFFE0,#FFFACD
+211,Ginsberg School,PL|Poland,Education,#FFFFE0,#FFFACD
+212,Brian School,PA|Panama,Education,#FFFFE0,#FFFACD
+213,Alcmena School,SG|Singapore,Education,#FFFFE0,#FFFACD
+214,Fisk School,PL|Poland,Education,#FFFFE0,#FFFACD
+215,Auberge School,SG|Singapore,Education,#FFFFE0,#FFFACD
+216,Derbyshire School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+217,Pleistocene School,SG|Singapore,Education,#FFFFE0,#FFFACD
+218,Glenda School,PA|Panama,Education,#FFFFE0,#FFFACD
+219,Blomquist School,PL|Poland,Education,#FFFFE0,#FFFACD
+220,Edwardian School,SG|Singapore,Education,#FFFFE0,#FFFACD
+221,Isabel School,SG|Singapore,Education,#FFFFE0,#FFFACD
+222,Bristol School,SG|Singapore,Education,#FFFFE0,#FFFACD
+223,Wilhelm School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+224,Benedictine School,PL|Poland,Education,#FFFFE0,#FFFACD
+225,Jason School,PL|Poland,Education,#FFFFE0,#FFFACD
+226,Healy School,PL|Poland,Education,#FFFFE0,#FFFACD
+227,Cranford School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+228,Narbonne School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+229,Claudio School,PA|Panama,Education,#FFFFE0,#FFFACD
+230,Andes School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+231,Otis School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+232,Shearer School,PA|Panama,Education,#FFFFE0,#FFFACD
+233,Aldrich School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+234,Locke School,PL|Poland,Education,#FFFFE0,#FFFACD
+235,Atchison School,PA|Panama,Education,#FFFFE0,#FFFACD
+236,Capitoline School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+237,Ellis School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+238,Pamela School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+239,Moliere School,PL|Poland,Education,#FFFFE0,#FFFACD
+240,Hahn School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+241,Fiske School,SG|Singapore,Education,#FFFFE0,#FFFACD
+242,Hollingsworth School,PA|Panama,Education,#FFFFE0,#FFFACD
+243,Barnabas School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+244,Ferber School,PA|Panama,Education,#FFFFE0,#FFFACD
+245,Fortescue School,SG|Singapore,Education,#FFFFE0,#FFFACD
+246,Leroy School,PL|Poland,Education,#FFFFE0,#FFFACD
+247,Ridgway School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+248,Hanlon School,SG|Singapore,Education,#FFFFE0,#FFFACD
+249,USN School,SG|Singapore,Education,#FFFFE0,#FFFACD
+250,Edmondson School,PL|Poland,Education,#FFFFE0,#FFFACD
+251,Duncan School,PL|Poland,Education,#FFFFE0,#FFFACD
+252,Carmen School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+253,Rousseau School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+254,Hippocrates School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+255,Davidson School,PL|Poland,Education,#FFFFE0,#FFFACD
+256,Bausch School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+257,Diophantine School,SG|Singapore,Education,#FFFFE0,#FFFACD
+258,Chartres School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+259,McCabe School,SG|Singapore,Education,#FFFFE0,#FFFACD
+260,Belgrade School,SG|Singapore,Education,#FFFFE0,#FFFACD
+261,U.S.A School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+262,Fitch School,SG|Singapore,Education,#FFFFE0,#FFFACD
+263,Eumenides School,PA|Panama,Education,#FFFFE0,#FFFACD
+264,Abidjan School,PL|Poland,Education,#FFFFE0,#FFFACD
+265,NSF School,PA|Panama,Education,#FFFFE0,#FFFACD
+266,Hebraic School,PL|Poland,Education,#FFFFE0,#FFFACD
+267,Sylow School,PL|Poland,Education,#FFFFE0,#FFFACD
+268,Conway School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+269,Lancashire School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+270,Durrell School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+271,McKnight School,PL|Poland,Education,#FFFFE0,#FFFACD
+272,Saviour School,PL|Poland,Education,#FFFFE0,#FFFACD
+273,Chautauqua School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+274,Leon School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+275,Guatemala School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+276,Hausdorff School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+277,Kemp School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+278,Scotia School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+279,Belmont School,PL|Poland,Education,#FFFFE0,#FFFACD
+280,Longfellow School,SG|Singapore,Education,#FFFFE0,#FFFACD
+281,Nair School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+282,Brooklyn School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+283,Pauli School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+284,Tantric School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+285,McHugh School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+286,Janice School,PL|Poland,Education,#FFFFE0,#FFFACD
+287,Sloan School,PL|Poland,Education,#FFFFE0,#FFFACD
+288,Shearer School,PL|Poland,Education,#FFFFE0,#FFFACD
+289,Madhya School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+290,Wappinger School,PA|Panama,Education,#FFFFE0,#FFFACD
+291,Slovenia School,PL|Poland,Education,#FFFFE0,#FFFACD
+292,Bialystok School,PL|Poland,Education,#FFFFE0,#FFFACD
+293,Ainu School,PA|Panama,Education,#FFFFE0,#FFFACD
+294,Carmen School,SG|Singapore,Education,#FFFFE0,#FFFACD
+295,Siegfried School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+296,Synge School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+297,Stuyvesant School,PA|Panama,Education,#FFFFE0,#FFFACD
+298,Scotsman School,SG|Singapore,Education,#FFFFE0,#FFFACD
+299,Platte School,SG|Singapore,Education,#FFFFE0,#FFFACD
