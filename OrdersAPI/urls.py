@@ -14,4 +14,7 @@ urlpatterns = [
     #quote/1/
     re_path('quote/(?P<pk>[0-9]+)/', views.QuoteDetail.as_view()),
 
+    #rec1/
+    path('rec1/', views.RecommendedList.as_view()),
+
 ]

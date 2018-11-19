@@ -35,7 +35,7 @@ def num_similarity(input_laptop,laptops,test_indices,num_cols):
 
 def get_recommendations(test_indices):
         
-    laptops = pd.read_csv('laptops_with_photo_url.csv')
+    laptops = pd.read_csv('/home/ubuntu/Box/Delta/OrdersAPI/laptops_with_photo_url.csv')
     
     laptops.drop(['Unnamed: 0','photo_url'],axis=1,inplace=True)
     
@@ -74,7 +74,9 @@ def get_recommendations(test_indices):
     for i in range(len(indices_list)):
         indi_dicts.append({'Company':laptops['Company'][i],
                                'Product':laptops['Product'][i],
-                               'Price_euros':laptops['Price_euros'][i]})
+                               'Price_euros':laptops['Price_euros'][i],
+                               'Cpu':laptops['Cpu'][i],
+                                'Memory':laptops['Memory'][i]})
         
     final_dict = {'count':len(indi_dicts), 'results':indi_dicts}
 

@@ -5,6 +5,7 @@ from rest_framework import status
 from OrdersAPI.models import *
 from OrdersAPI.serializers import *
 from django.http import Http404
+from . import recommendation_history as rec
 
 # Lists all orders or creates a new one
 class OrderList(APIView):
@@ -20,7 +21,7 @@ class OrderList(APIView):
         serializer = OrderSerializer(data=request.data)
         if serializer.is_valid():
             serializer.save()
-            
+
             return Response(serializer.data, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
@@ -101,3 +102,7 @@ class QuoteDetail(APIView):
 
         return Response(status=status.HTTP_204_NO_CONTENT)
 
+class RecommendedList(APIView):
+
+    def get(self,request):
+        return Response(rec.get_recommendations([552,97,1182,211,1010]))
