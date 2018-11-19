@@ -90,7 +90,24 @@ def get_recommendations(test_indices):
                                'Memory':laptops['Memory'][final_rec[i]],
                                'Price_euros':laptops['Price_euros'][final_rec[i]],
                                'photo_url':photos[final_rec[i]]})
-        
-    final_dict = {'count':len(indi_dicts), 'results':indi_dicts}
+    opt_dicts = []
+    opt = [0,2,4]
     
-    return final_dict
+    for i in range(len(opt)):
+        opt_dicts.append({'Company':laptops['Company'][final_rec[i]],
+                          'Product':laptops['Product'][final_rec[i]],
+                          'TypeName':laptops['TypeName'][final_rec[i]],
+                          'Inches':laptops['Inches'][final_rec[i]],
+                          'ScreenResolution':laptops['ScreenResolution'][final_rec[i]],
+                          'Cpu':laptops['Cpu'][final_rec[i]],
+                          'Ram':laptops['Ram'][final_rec[i]],
+                          'Memory':laptops['Memory'][final_rec[i]],
+                          'Gpu':laptops['Gpu'][final_rec[i]],
+                          'OpSys':laptops['OpSys'][final_rec[i]],
+                          'Weight':laptops['Weight'][final_rec[i]],
+                          'Price_euros':laptops['Price_euros'][final_rec[i]],
+                          'photo_url':photos[final_rec[i]]})
+    
+    final_dict = {'count':len(indi_dicts), 'results':indi_dicts, 'opt':opt_dicts}
+    
+    return final_dict 
