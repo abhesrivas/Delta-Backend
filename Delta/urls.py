@@ -33,7 +33,7 @@ urlpatterns = [
 
     #order/1/
     re_path('order/(?P<pk>[0-9]+)/', order_views.OrderDetail.as_view()),
-    
+
     #quote/
     path('quote/', order_views.QuoteList.as_view()),
 
