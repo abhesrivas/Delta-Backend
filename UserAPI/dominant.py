@@ -5,8 +5,9 @@ from urllib.request import Request, urlopen
 from PIL import Image
 from colorthief import ColorThief
 from io import BytesIO
+from ItemAPI import LocationRecommendation
 
-def get_dominant_colors(company):
+def get_dominant_colors(company, location, company_type):
 
     company = company.lower()
     headers = {
@@ -19,12 +20,19 @@ def get_dominant_colors(company):
     rgb_im.save('company_img.png')
     image = 'company_img.png'
 
+    rec_dict = LocationRecommendation.location_similarity(location, company_type)
+    print(rec_dict)
+
+
     color_thief = ColorThief(image)
     palette = color_thief.get_palette(color_count=2, quality=1)
     colors = []
     for color in palette[:2]:
         colors.append('#%02x%02x%02x' % color)
 
-    colors_dict = {'primary_color':colors[0], 'secondary_color':colors[1]}
-    return colors_dict
+    final_dict = {"primary_color":colors[0],
+                "secondary_color":colors[1],
+                "recommendations":rec_dict}
+    
+    return final_dict
 

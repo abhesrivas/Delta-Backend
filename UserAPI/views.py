@@ -23,9 +23,11 @@ class UserList(APIView):
         if serializer.is_valid():
             serializer.save()
             company_name = serializer.data.get('company_name')
-#            print(company_name)
+            location = serializer.data.get('location')
+            company_type = serializer.data.get('company_type')
+
             print('----------User is saved--------')
-            return Response(dominant.get_dominant_colors(company_name), status=status.HTTP_201_CREATED)
+            return Response(dominant.get_dominant_colors(company_name, location, company_type), status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
 class UserDetail(APIView):
