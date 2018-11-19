@@ -8,6 +8,7 @@ from OrdersAPI.models import *
 # Quote Model
 class Quote(models.Model):
     name = models.CharField(max_length=200)
+    laptop_id = models.IntegerField(null=True)
     number = models.IntegerField(primary_key=True)
     created_at = models.DateTimeField(editable=False)
     requoted_at = models.DateTimeField(editable=False)
@@ -30,6 +31,7 @@ class Quote(models.Model):
 
 class Order(models.Model):
     name = models.CharField(max_length=200)
+    laptop_id = models.IntegerField(null=True)
     number = models.IntegerField(primary_key=True)
     created_at = models.DateTimeField(editable=False)
     created_by = models.CharField(max_length=200)
