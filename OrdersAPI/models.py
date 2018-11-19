@@ -33,16 +33,7 @@ class Order(models.Model):
     name = models.CharField(max_length=200)
     laptop_id = models.IntegerField(null=True)
     number = models.IntegerField(primary_key=True)
-    created_at = models.DateTimeField(editable=False)
-    created_by = models.CharField(max_length=200)
     subtotal = models.FloatField()
-
-    #Overiding Save Function to Automatically input DateTime
-    def save(self, *args, **kwargs):
-        ''' On save, update timestamps '''
-        if not self.id:
-            self.created_at = timezone.now()
-        return super(Order, self).save(*args, **kwargs)
 
     def __str__(self):
         return '{} - {} - {}'.format(self.number, self.name, self.created_by)

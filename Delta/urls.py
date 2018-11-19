@@ -3,7 +3,7 @@ from django.urls import path, re_path
 from rest_framework.urlpatterns import format_suffix_patterns
 from UserAPI import views as user_views
 from ItemAPI import views as item_views
-from OrdersAPI import views
+from OrdersAPI import views as order_views
 
 urlpatterns = [
 
@@ -29,17 +29,19 @@ urlpatterns = [
     re_path('laptop/(?P<pk>[0-9]+)/', item_views.LaptopDetail.as_view()),
 
     #order/
-    path('order/', views.OrderList.as_view()),
+    path('order/', order_views.OrderList.as_view()),
 
     #order/1/
-    re_path('order/(?P<pk>[0-9]+)/', views.OrderDetail.as_view()),
+    re_path('order/(?P<pk>[0-9]+)/', order_views.OrderDetail.as_view()),
     
     #quote/
-    path('quote/', views.QuoteList.as_view()),
+    path('quote/', order_views.QuoteList.as_view()),
 
     #quote/1/
-    re_path('quote/(?P<pk>[0-9]+)/', views.QuoteDetail.as_view()),
+    re_path('quote/(?P<pk>[0-9]+)/', order_views.QuoteDetail.as_view()),
 
+    #rec1/
+    path('rec1/', order_views.RecommendedList.as_view()),
 
 ]
 
