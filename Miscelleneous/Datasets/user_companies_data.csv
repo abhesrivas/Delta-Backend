@@ -1,0 +1,401 @@
+company_id,company_name,location,company_type,primary_color,secondary_colour
+0,Stalin Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+1,McDonald Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+2,Indus Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+3,Swanson Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+4,Minnesota Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+5,Montreal Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+6,Michelangelo Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+7,Brock Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+8,Poe Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+9,Hershey Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+10,Percy Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+11,Juneau Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+12,Charleston Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+13,Augusta Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+14,Colosseum Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+15,Bhutan Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+16,Slavonic Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+17,Beaumont Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+18,Spokane Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+19,Nantucket Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+20,Normandy Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+21,Hodgkin Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+22,Connors Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+23,Glidden Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+24,Breton Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+25,Essex Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+26,Tientsin Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+27,Strom Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+28,Shantung Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+29,Pearson Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+30,Salesian Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+31,Hera Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+32,Veda Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+33,Minneapolis Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+34,Chinatown Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+35,Quichua Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+36,Princeton Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+37,Greta Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+38,Shearer Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+39,Asuncion Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+40,Ave Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+41,Malabar Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+42,Leslie Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+43,Chadwick Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+44,Arnold Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+45,Sahara Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+46,Hopkins Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+47,Floridian Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+48,Brandon Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+49,Kenyon Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+50,Raman Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+51,Ft Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+52,Berra Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+53,Jupiter Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+54,Cartesian Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+55,Palmyra Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+56,Lise Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+57,Mercator Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+58,Huston Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+59,Lange Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+60,Veneto Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+61,Jove Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+62,Harvard Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+63,Sarasota Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+64,Dave Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+65,Muzak Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+66,Arcturus Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+67,Corbett Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+68,Krakatoa Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+69,Siamese Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+70,Eire Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+71,Wagner Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+72,Polyhymnia Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+73,Hartley Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+74,Istanbul Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+75,Stratton Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+76,Swenson Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+77,Stearns Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+78,Hague Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+79,Stanley Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+80,Hawaii Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+81,Gregory Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+82,Caribbean Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+83,Maurice Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+84,Dugan Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+85,Kathleen Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+86,Hirsch Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+87,Churchill Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+88,Bagley Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+89,Brest Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+90,Elgin Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+91,Georgetown Bank,PA|Panama,Bank,#8A2BE2,#9370DB
+92,Sutton Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+93,Phyllis Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+94,Agway Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+95,Loomis Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+96,Indies Bank,SG|Singapore,Bank,#8A2BE2,#9370DB
+97,Metzler Bank,SA|Saudi Arabia,Bank,#8A2BE2,#9370DB
+98,Pocono Bank,PL|Poland,Bank,#8A2BE2,#9370DB
+99,Camino Bank,RU|Russian Federation,Bank,#8A2BE2,#9370DB
+100,Theseus Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+101,Multics Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+102,Asia Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+103,Jacobean Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+104,Yucatan Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+105,Zanzibar Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+106,Melinda Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+107,Barney Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+108,Claus Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+109,Rousseau Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+110,Antonio Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+111,Kowalski Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+112,Hernandez Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+113,Thornton Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+114,Bagley Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+115,Bridgetown Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+116,Artemis Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+117,Paramus Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+118,Kowloon Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+119,Camelot Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+120,Ellison Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+121,Semiramis Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+122,Irvin Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+123,Ferguson Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+124,Honduras Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+125,Uris Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+126,Walden Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+127,Andover Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+128,Champaign Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+129,McDermott Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+130,Brett Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+131,Morley Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+132,Hans Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+133,Gideon Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+134,Typhon Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+135,Tantric Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+136,Choctaw Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+137,Pareto Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+138,Choctaw Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+139,Atropos Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+140,Doreen Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+141,Whipple Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+142,Jason Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+143,Oxnard Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+144,Burgundy Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+145,Signor Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+146,Holbrook Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+147,Himalaya Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+148,Vreeland Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+149,Morrison Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+150,Bernoulli Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+151,Nassau Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+152,Polk Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+153,Gallup Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+154,Manville Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+155,Moslem Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+156,Damon Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+157,Jessica Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+158,Wilma Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+159,Roman Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+160,Moses Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+161,Aeschylus Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+162,Jan Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+163,Sims Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+164,Bernice Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+165,Barbara Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+166,Pompeii Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+167,Moluccas Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+168,Jewett Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+169,Bobbie Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+170,Humboldt Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+171,Tantalus Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+172,Beowulf Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+173,Dominique Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+174,Philippine Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+175,Weierstrass Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+176,Dirichlet Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+177,Pleiades Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+178,Newtonian Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+179,Batavia Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+180,Dooley Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+181,Mobil Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+182,Madame Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+183,USA Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+184,Zachary Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+185,Sheehan Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+186,Fernando Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+187,Emilio Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+188,Baptist Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+189,Darwin Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+190,Dodd Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+191,Betsey Hospital,PL|Poland,HealthCare,#FFA07A,#E9967A
+192,Pfizer Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+193,Oligocene Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+194,Mauritania Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+195,Norma Hospital,RU|Russian Federation,HealthCare,#FFA07A,#E9967A
+196,Triassic Hospital,SA|Saudi Arabia,HealthCare,#FFA07A,#E9967A
+197,Paulette Hospital,PA|Panama,HealthCare,#FFA07A,#E9967A
+198,Cesare Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+199,Nazism Hospital,SG|Singapore,HealthCare,#FFA07A,#E9967A
+200,Riga School,PA|Panama,Education,#FFFFE0,#FFFACD
+201,Jackie School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+202,Barton School,PL|Poland,Education,#FFFFE0,#FFFACD
+203,Ralph School,PA|Panama,Education,#FFFFE0,#FFFACD
+204,Elliot School,PA|Panama,Education,#FFFFE0,#FFFACD
+205,Howell School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+206,Ryder School,PA|Panama,Education,#FFFFE0,#FFFACD
+207,Amerada School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+208,Edinburgh School,PL|Poland,Education,#FFFFE0,#FFFACD
+209,Carbondale School,SG|Singapore,Education,#FFFFE0,#FFFACD
+210,Simla School,PL|Poland,Education,#FFFFE0,#FFFACD
+211,Ginsberg School,PL|Poland,Education,#FFFFE0,#FFFACD
+212,Brian School,PA|Panama,Education,#FFFFE0,#FFFACD
+213,Alcmena School,SG|Singapore,Education,#FFFFE0,#FFFACD
+214,Fisk School,PL|Poland,Education,#FFFFE0,#FFFACD
+215,Auberge School,SG|Singapore,Education,#FFFFE0,#FFFACD
+216,Derbyshire School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+217,Pleistocene School,SG|Singapore,Education,#FFFFE0,#FFFACD
+218,Glenda School,PA|Panama,Education,#FFFFE0,#FFFACD
+219,Blomquist School,PL|Poland,Education,#FFFFE0,#FFFACD
+220,Edwardian School,SG|Singapore,Education,#FFFFE0,#FFFACD
+221,Isabel School,SG|Singapore,Education,#FFFFE0,#FFFACD
+222,Bristol School,SG|Singapore,Education,#FFFFE0,#FFFACD
+223,Wilhelm School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+224,Benedictine School,PL|Poland,Education,#FFFFE0,#FFFACD
+225,Jason School,PL|Poland,Education,#FFFFE0,#FFFACD
+226,Healy School,PL|Poland,Education,#FFFFE0,#FFFACD
+227,Cranford School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+228,Narbonne School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+229,Claudio School,PA|Panama,Education,#FFFFE0,#FFFACD
+230,Andes School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+231,Otis School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+232,Shearer School,PA|Panama,Education,#FFFFE0,#FFFACD
+233,Aldrich School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+234,Locke School,PL|Poland,Education,#FFFFE0,#FFFACD
+235,Atchison School,PA|Panama,Education,#FFFFE0,#FFFACD
+236,Capitoline School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+237,Ellis School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+238,Pamela School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+239,Moliere School,PL|Poland,Education,#FFFFE0,#FFFACD
+240,Hahn School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+241,Fiske School,SG|Singapore,Education,#FFFFE0,#FFFACD
+242,Hollingsworth School,PA|Panama,Education,#FFFFE0,#FFFACD
+243,Barnabas School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+244,Ferber School,PA|Panama,Education,#FFFFE0,#FFFACD
+245,Fortescue School,SG|Singapore,Education,#FFFFE0,#FFFACD
+246,Leroy School,PL|Poland,Education,#FFFFE0,#FFFACD
+247,Ridgway School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+248,Hanlon School,SG|Singapore,Education,#FFFFE0,#FFFACD
+249,USN School,SG|Singapore,Education,#FFFFE0,#FFFACD
+250,Edmondson School,PL|Poland,Education,#FFFFE0,#FFFACD
+251,Duncan School,PL|Poland,Education,#FFFFE0,#FFFACD
+252,Carmen School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+253,Rousseau School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+254,Hippocrates School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+255,Davidson School,PL|Poland,Education,#FFFFE0,#FFFACD
+256,Bausch School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+257,Diophantine School,SG|Singapore,Education,#FFFFE0,#FFFACD
+258,Chartres School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+259,McCabe School,SG|Singapore,Education,#FFFFE0,#FFFACD
+260,Belgrade School,SG|Singapore,Education,#FFFFE0,#FFFACD
+261,U.S.A School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+262,Fitch School,SG|Singapore,Education,#FFFFE0,#FFFACD
+263,Eumenides School,PA|Panama,Education,#FFFFE0,#FFFACD
+264,Abidjan School,PL|Poland,Education,#FFFFE0,#FFFACD
+265,NSF School,PA|Panama,Education,#FFFFE0,#FFFACD
+266,Hebraic School,PL|Poland,Education,#FFFFE0,#FFFACD
+267,Sylow School,PL|Poland,Education,#FFFFE0,#FFFACD
+268,Conway School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+269,Lancashire School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+270,Durrell School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+271,McKnight School,PL|Poland,Education,#FFFFE0,#FFFACD
+272,Saviour School,PL|Poland,Education,#FFFFE0,#FFFACD
+273,Chautauqua School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+274,Leon School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+275,Guatemala School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+276,Hausdorff School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+277,Kemp School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+278,Scotia School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+279,Belmont School,PL|Poland,Education,#FFFFE0,#FFFACD
+280,Longfellow School,SG|Singapore,Education,#FFFFE0,#FFFACD
+281,Nair School,SA|Saudi Arabia,Education,#FFFFE0,#FFFACD
+282,Brooklyn School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+283,Pauli School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+284,Tantric School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+285,McHugh School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+286,Janice School,PL|Poland,Education,#FFFFE0,#FFFACD
+287,Sloan School,PL|Poland,Education,#FFFFE0,#FFFACD
+288,Shearer School,PL|Poland,Education,#FFFFE0,#FFFACD
+289,Madhya School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+290,Wappinger School,PA|Panama,Education,#FFFFE0,#FFFACD
+291,Slovenia School,PL|Poland,Education,#FFFFE0,#FFFACD
+292,Bialystok School,PL|Poland,Education,#FFFFE0,#FFFACD
+293,Ainu School,PA|Panama,Education,#FFFFE0,#FFFACD
+294,Carmen School,SG|Singapore,Education,#FFFFE0,#FFFACD
+295,Siegfried School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+296,Synge School,RU|Russian Federation,Education,#FFFFE0,#FFFACD
+297,Stuyvesant School,PA|Panama,Education,#FFFFE0,#FFFACD
+298,Scotsman School,SG|Singapore,Education,#FFFFE0,#FFFACD
+299,Platte School,SG|Singapore,Education,#FFFFE0,#FFFACD
+300,Calder Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+301,Kabul Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+302,Liverpudlian Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+303,Sylvania Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+304,IR Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+305,Winnetka Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+306,Whitney Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+307,Sam Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+308,Susanne Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+309,Gil Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+310,Dionysus Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+311,Prague Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+312,Iran Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+313,Wyandotte Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+314,Weller Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+315,Holmes Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+316,Barry Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+317,Ainu Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+318,Woodbury Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+319,Versailles Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+320,Cincinnati Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+321,Geigy Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+322,Nostrand Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+323,Israelite Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+324,Judy Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+325,Harvey Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+326,Gavin Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+327,AAAS Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+328,Albright Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+329,Bradford Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+330,Ceylon Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+331,Raphael Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+332,Gretchen Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+333,Lola Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+334,Malay Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+335,Colgate Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+336,Ella Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+337,Fulbright Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+338,Amadeus Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+339,Ernie Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+340,Lombard Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+341,Mayfair Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+342,Coors Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+343,Victoria Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+344,Pfizer Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+345,McConnel Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+346,Billie Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+347,Potts Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+348,Walpole Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+349,Moulton Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+350,Bingham Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+351,Hummel Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+352,McKeon Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+353,Moldavia Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+354,Montmartre Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+355,Baxter Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+356,Horton Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+357,Sharon Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+358,Platte Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+359,Tasmania Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+360,Seidel Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+361,Hansen Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+362,WA Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+363,Nantucket Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+364,NASA Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+365,Bateman Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+366,NCR Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+367,Banbury Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+368,AZ Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+369,Cohen Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+370,Dana Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+371,Haas Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+372,MD Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+373,Conway Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+374,Harbin Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+375,Murphy Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+376,Isabel Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+377,Bridgetown Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+378,Logan Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+379,Stirling Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+380,Wendell Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+381,Idaho Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+382,Kim Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+383,Schlitz Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+384,Shreveport Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+385,Bailey Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+386,Amos Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+387,Inverness Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+388,Wallace Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+389,Larry Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+390,Alberich Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+391,Ross Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+392,Deere Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+393,Canterbury Store,PA|Panama,RetailStores,#87CEFA,#4682B4
+394,Tigris Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
+395,Thruway Store,SG|Singapore,RetailStores,#87CEFA,#4682B4
+396,Khmer Store,PL|Poland,RetailStores,#87CEFA,#4682B4
+397,Bologna Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+398,Technion Store,RU|Russian Federation,RetailStores,#87CEFA,#4682B4
+399,Siegfried Store,SA|Saudi Arabia,RetailStores,#87CEFA,#4682B4
