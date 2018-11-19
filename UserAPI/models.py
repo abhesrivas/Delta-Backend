@@ -5,7 +5,7 @@ from django.db.models.signals import post_save
 from . import dominant
 
 # Authentication user model
-# User Type Choice
+# User Type Choices
 BANK = "Bank"
 MEDI = "HealthCare"
 SCHOOL = "Education"
