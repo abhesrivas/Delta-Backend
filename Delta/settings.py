@@ -32,6 +32,7 @@ ALLOWED_HOSTS = ['13.127.28.25','localhost','172.31.28.29']
 
 INSTALLED_APPS = [
     'rest_framework',
+    'django_mysql',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -39,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'UserAPI'
+    'ItemAPI'
 ]
 
 MIDDLEWARE = [
@@ -122,3 +124,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10,
+}
