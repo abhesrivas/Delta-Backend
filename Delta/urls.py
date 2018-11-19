@@ -43,6 +43,9 @@ urlpatterns = [
     #rec1/
     path('rec1/', order_views.RecommendedList.as_view()),
 
+    #rec2/
+    path('rec2/', item_views.LocationRecommendation.as_view()),
+
 ]
 
 urlpatterns = format_suffix_patterns(urlpatterns)

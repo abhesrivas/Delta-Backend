@@ -5,7 +5,7 @@ from ItemAPI.models import *
 from ItemAPI.serializers import *
 from django.http import Http404
 from rest_framework.pagination import PageNumberPagination
-
+from . import LocationRecommendation as recommendation
 
 # Lists all laptops
 class LaptopList(APIView):
@@ -30,3 +30,9 @@ class LaptopDetail(APIView):
             return Laptop.objects.get(pk=pk)
         except Laptop.DoesNotExist:
             raise Http404
+
+
+# Get Recommended List Based On Location, Sector Type
+class LocationRecommendation(APIView):
+    def get(self,request):
+        return Response(recommendation.location_similarity(self.location, self.company_type))

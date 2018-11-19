@@ -103,6 +103,6 @@ class QuoteDetail(APIView):
         return Response(status=status.HTTP_204_NO_CONTENT)
 
 class RecommendedList(APIView):
-
     def get(self,request):
         return Response(rec.get_recommendations([552,97,1182,211,1010]))
+
