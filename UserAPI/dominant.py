@@ -21,7 +21,7 @@ def get_dominant_colors(company, location, company_type):
     image = 'company_img.png'
 
     rec_dict = LocationRecommendation.location_similarity(location, company_type)
-    print(rec_dict)
+#    print(rec_dict)
 
 
     color_thief = ColorThief(image)

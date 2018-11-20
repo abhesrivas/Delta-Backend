@@ -6,6 +6,7 @@ from ItemAPI.serializers import *
 from django.http import Http404
 from rest_framework.pagination import PageNumberPagination
 from . import LocationRecommendation as recommendation
+from . import recommendation_history as rec
 
 # Lists all laptops
 class LaptopList(APIView):
@@ -14,7 +15,7 @@ class LaptopList(APIView):
         paginator = PageNumberPagination()
         result_page = paginator.paginate_queryset(laptops, request)
         serializer = LaptopSerializer(result_page, many=True)
-    	
+
         return paginator.get_paginated_response(serializer.data)
 
 # Get individual laptop details
@@ -36,3 +37,10 @@ class LaptopDetail(APIView):
 class LocationRecommendation(APIView):
     def get(self,request):
         return Response(recommendation.location_similarity(self.location, self.company_type))
+
+# Get Recommended List Based on History
+class RecommendedList(APIView):
+    def get(self,request):
+        return Response(rec.get_recommendations([552,97,1182,211,1010]))
+
+

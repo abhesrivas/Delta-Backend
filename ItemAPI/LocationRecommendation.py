@@ -9,8 +9,8 @@ import pandas as pd
 import numpy as np
 
 def get_school_recommendations(test_indices):    
-    school_laptops = pd.read_csv("Datasets/school_laptops.csv", index_col="Laptop_id") 
-    laptops = pd.read_csv('Datasets/laptops_with_photo_url.csv')
+    school_laptops = pd.read_csv("/home/ubuntu/Box/Delta/Miscelleneous/Datasets/school_laptops.csv", index_col="Laptop_id") 
+    laptops = pd.read_csv('/home/ubuntu/Box/Delta/Miscelleneous/Datasets/laptops_with_photo_url.csv')
     laptops.reset_index()
     photos = laptops['photo_url']
     counter = 0
@@ -29,8 +29,8 @@ def get_school_recommendations(test_indices):
     return final_dict
 
 def get_hospital_recommendations(test_indices):    
-    hospital_laptops = pd.read_csv("Datasets/hospital_laptops.csv", index_col="Laptop_id") 
-    laptops = pd.read_csv('Datasets/laptops_with_photo_url.csv')
+    hospital_laptops = pd.read_csv("/home/ubuntu/Box/Delta/Miscelleneous/Datasets/hospital_laptops.csv", index_col="Laptop_id") 
+    laptops = pd.read_csv('/home/ubuntu/Box/Delta/Miscelleneous/Datasets/laptops_with_photo_url.csv')
     laptops.reset_index()
     photos = laptops['photo_url']
     counter = 0
@@ -51,8 +51,8 @@ def get_hospital_recommendations(test_indices):
 def location_similarity(location, company_type):
     laptops = []
     if(company_type == "Education"):
-        schools = pd.read_csv("Datasets/schools_users.csv",index_col="company_id")
-        school_orders = pd.read_csv("Datasets/school_orders.csv") 
+        schools = pd.read_csv("/home/ubuntu/Box/Delta/Miscelleneous/Datasets/schools_users.csv",index_col="company_id")
+        school_orders = pd.read_csv("/home/ubuntu/Box/Delta/Miscelleneous/Datasets/school_orders.csv") 
         groups = schools.groupby("location").groups
         company_ids = groups[location]
         
@@ -66,8 +66,8 @@ def location_similarity(location, company_type):
         return get_school_recommendations(laptops)
      
     elif(company_type == "Healthcare"):
-        hospitals = pd.read_csv("Datasets/hospitals_users.csv",index_col="company_id")
-        hospital_orders = pd.read_csv("Datasets/hospital_orders.csv")
+        hospitals = pd.read_csv("/home/ubuntu/Box/Delta/Miscelleneous/Datasets/hospitals_users.csv",index_col="company_id")
+        hospital_orders = pd.read_csv("/home/ubuntu/Box/Delta/Miscelleneous/Datasets/hospital_orders.csv")
         groups = hospitals.groupby("location").groups
         print(hospitals.groupby("location").count())
         company_ids = groups[location]
@@ -80,3 +80,4 @@ def location_similarity(location, company_type):
         laptops = set(laptops)
         laptops = list(laptops)    
         return get_hospital_recommendations(laptops)
+

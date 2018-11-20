@@ -41,7 +41,7 @@ urlpatterns = [
     re_path('quote/(?P<pk>[0-9]+)/', order_views.QuoteDetail.as_view()),
 
     #rec1/
-    path('rec1/', order_views.RecommendedList.as_view()),
+    path('rec1/', item_views.RecommendedList.as_view()),
 ]
 
 urlpatterns = format_suffix_patterns(urlpatterns)

@@ -83,18 +83,20 @@ def get_recommendations(test_indices):
     
     indi_dicts = []
     for i in range(len(final_rec)):
-        indi_dicts.append({'Company':laptops['Company'][final_rec[i]],
-                               'Product':laptops['Product'][final_rec[i]],
-                               'Cpu':laptops['Cpu'][final_rec[i]],
-                               'Gpu':laptops['Gpu'][final_rec[i]],
-                               'Memory':laptops['Memory'][final_rec[i]],
-                               'Price_euros':laptops['Price_euros'][final_rec[i]],
-                               'photo_url':photos[final_rec[i]]})
+        indi_dicts.append({'id':final_rec[i],
+                           'Company':laptops['Company'][final_rec[i]],
+                           'Product':laptops['Product'][final_rec[i]],
+                           'Cpu':laptops['Cpu'][final_rec[i]],
+                           'Gpu':laptops['Gpu'][final_rec[i]],
+                           'Memory':laptops['Memory'][final_rec[i]],
+                           'Price_euros':laptops['Price_euros'][final_rec[i]],
+                           'photo_url':photos[final_rec[i]]})
     opt_dicts = []
     opt = [0,2,4]
     
     for i in range(len(opt)):
-        opt_dicts.append({'Company':laptops['Company'][final_rec[i]],
+        opt_dicts.append({'id':final_rec[i],
+                          'Company':laptops['Company'][final_rec[i]],
                           'Product':laptops['Product'][final_rec[i]],
                           'TypeName':laptops['TypeName'][final_rec[i]],
                           'Inches':laptops['Inches'][final_rec[i]],

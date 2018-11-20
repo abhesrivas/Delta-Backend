@@ -5,4 +5,4 @@ from rest_framework import serializers
 class LaptopSerializer(serializers.ModelSerializer):
     class Meta:
         model = Laptop
-        fields = ('__all__')
+        fields = ('id','company','product','type_name','inches','screen_resolution','cpu','ram','memory','gpu','operating_system','weight','price_euros','photo_url')
